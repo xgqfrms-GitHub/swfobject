@@ -9,13 +9,13 @@ SWFObject 是一个免费, 开源工具，用于在网站中嵌入swf内容.
 This GitHub edition of SWFObject is our 2.3 beta. The current release -- 2.2 -- is still available for download at http://code.google.com/p/swfobject/
 
 
-== CHANGES
+== 变化
 SWFObject 2.3 introduces many small changes under the hood (almost exclusively aimed at fixing bugs), but the public API is mostly unchanged and completely backwards compatible with SWFObject 2.2.  The only two significant changes to the API: 
 
 1. You may now pass an element as an argument in embedSWF (in place of an ID)
 2. You may now use integers in place of number strings in embedSWF (e.g. 9 instead of "9").
 
-Example:
+例子:
 
 OLD:
     swfobject.embedSWF("myContent.swf", "my-target-element", "300", "120", "10.0.0");
