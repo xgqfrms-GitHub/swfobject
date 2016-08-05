@@ -1,10 +1,10 @@
-= --- IMPORTANT UPDATE ---
+= --- 重要更新 ---
 
 SWFObject is no longer in active development. Flash Player is on the decline, and the authors of SWFObject have moved on to other projects. This project is being left on GitHub for historical purposes.
 
 = SWFObject
 
-SWFObject is a free, open-source tool for embedding swf content in websites.
+SWFObject 是一个免费, 开源工具，用于在网站中嵌入swf内容.
 
 This GitHub edition of SWFObject is our 2.3 beta. The current release -- 2.2 -- is still available for download at http://code.google.com/p/swfobject/
 
